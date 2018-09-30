@@ -16,3 +16,4 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Abhilash Tiwari | III | CSE |
 | Aakanksha Jain | III | CSE |
 | Manank Patni | II | IT |
+| Abhimanyu Shekhawat | II | IT |
