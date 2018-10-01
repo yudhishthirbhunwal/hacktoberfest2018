@@ -28,3 +28,4 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Hardik Mundra | II | IT |
 | Ashik Paul | II | CSE |
 | Aditya Vyas | II | IT |
+| Rishabh Anand | IV | ECE | 
