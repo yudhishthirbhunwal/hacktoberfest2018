@@ -15,6 +15,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 * [yoda](https://github.com/yoda-pa/yoda)
 * [rishabh-bansal/Make-a-Pull-Request](https://github.com/rishabh-bansal/Make-a-Pull-Request)
 * [thank-you-github/thank-you-github](https://github.com/thank-you-github/thank-you-github)
+* [Hacktoberfest-2018/html-page/create-your-first-PR](https://github.com/abhilashk433/Hacktoberfest-2018)
  
 ## Bonus
 Microsoft is participating in Hacktoberfest this year! Details [here](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/).
@@ -24,7 +25,7 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Name | Year | Branch |
 | --- | --- | --- |
 | Dhruv Jain | IV | CSE |
-| Abhilash Tiwari | III | CSE |
+| [Abhilash Tiwari](https://github.com/abhilashk433/) | III | CSE |
 | Aakanksha Jain | III | CSE |
 | Amrit Srivastava | III | CSE |
 | [Aditya Agarwal](https://github.com/aditya81070) | III | CSE |
