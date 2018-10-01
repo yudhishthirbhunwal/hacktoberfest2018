@@ -20,3 +20,4 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Abhimanyu Shekhawat | II | IT |
 | Harshita Saxena | II | IT |
 | Bharti Sharma | II | IT |
+| Akash Lakhera | III | CSE |
