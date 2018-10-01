@@ -33,5 +33,6 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Aditya Vyas | II | IT |
 | Rishabh Anand | IV | ECE | 
 | Shiv Soni | IV | CSE |
+| Harshit Choudhary | II | IT |
 
 *When adding your name, don't add it at the beginning or end of the file. Put it anywhere in between.*
