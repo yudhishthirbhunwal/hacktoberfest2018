@@ -6,7 +6,8 @@ Register at - https://hacktoberfest.digitalocean.com/
 
 ## Respositories
 
-* 
+https://github.com/AliceWonderland/hacktoberfest
+https://github.com/firstcontributions/first-contributions
 
 ## Participants
 
