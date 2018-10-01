@@ -4,7 +4,7 @@ CodeDocs Hacktoberfest 2018 - participants, repositories and score
 
 Register at - https://hacktoberfest.digitalocean.com/
 
-## Respositories for Beginners
+## Repositories for Beginners
 
 **Links**
 
