@@ -7,6 +7,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 ## Respositories for Beginners
 | [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) |
+| [yoda](https://github.com/Man-Jain/yoda) |
  
 ## Bonus
 Microsoft is participating in Hacktoberfest this year! Details [here](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/).
@@ -30,6 +31,3 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Aditya Vyas | II | IT |
 | Rishabh Anand | IV | ECE | 
 | Shiv Soni | IV | CSE |
-
-
-*When adding your name, don't add it at the beginning or end of the file. Put it anywhere in between.*
