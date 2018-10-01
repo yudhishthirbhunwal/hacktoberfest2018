@@ -27,7 +27,7 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Abhilash Tiwari | III | CSE |
 | Aakanksha Jain | III | CSE |
 | Amrit Srivastava | III | CSE |
-| Aditya Agarwal | III | CSE |
+| [Aditya Agarwal](https://github.com/aditya81070) | III | CSE |
 | Akshay Sharma | III | CSE |
 | Sagar Parre | III | IT |
 | Abhishek Mohata | III | CSE |
