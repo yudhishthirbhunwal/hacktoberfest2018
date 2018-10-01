@@ -22,3 +22,4 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Bharti Sharma | II | IT |
 | Akash Lakhera | III | CSE |
 | Aakash Khaksa | II | IT |
+| Hardik Mundra | II | IT |
