@@ -23,3 +23,4 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Akash Lakhera | III | CSE |
 | Aakash Khaksa | II | IT |
 | Hardik Mundra | II | IT |
+| Ashik Paul | II | CSE |
