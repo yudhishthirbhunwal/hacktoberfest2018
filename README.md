@@ -31,6 +31,7 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Akshay Sharma | III | CSE |
 | Sagar Parre | III | IT |
 | Abhishek Mohata | III | CSE |
+| [Akshay Gagrani](https://github.com/Akshaygagrani) | III | CSE |
 | Manank Patni | II | IT |
 | Kanika Agrawal | II | IT |
 | Saket Kumar Sankrit | III | IT |
