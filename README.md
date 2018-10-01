@@ -6,6 +6,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 
 ## Respositories for Beginners
 | [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) |
+| [Novice-Paradigm/Hello-World](https://github.com/Novice-Paradigm/Hello-World) | 
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) |
 | [yoda](https://github.com/Man-Jain/yoda) |
  
