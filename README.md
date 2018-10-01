@@ -4,10 +4,12 @@ CodeDocs Hacktoberfest 2018 - participants, repositories and score
 
 Register at - https://hacktoberfest.digitalocean.com/
 
-## Respositories
-
+## Respositories for Beginners
 | [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest) |
 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) |
+ 
+## Bonus
+Microsoft is participating in Hacktoberfest this year! Details [here](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/).
 
 ## Participants
 
