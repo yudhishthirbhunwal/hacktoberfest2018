@@ -26,4 +26,4 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Hardik Mundra | II | IT |
 | Ashik Paul | II | CSE |
 | Aditya Vyas | II | IT |
-| Rishabh Anand | IV | CSE | 
+| Rishabh Anand | IV | ECE | 
