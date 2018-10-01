@@ -18,4 +18,4 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Abhishek Mohata | III | CSE |
 | Manank Patni | II | IT |
 | Abhimanyu Shekhawat | II | IT |
-| Akash Lakhera | III | CSE |
+| Harshita Saxena | II | IT |
