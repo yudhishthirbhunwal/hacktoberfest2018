@@ -42,7 +42,7 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | [Akshay Gagrani](https://github.com/Akshaygagrani) | III | CSE | |
 | [Manank Patni](https://github.com/Man-Jain) | II | IT | [@Man-Jain](https://hacktoberfest.digitalocean.com/stats/Man-Jain) |
 | Kanika Agrawal | II | IT | |
-| Saket Kumar Sankrit | III | IT | |
+| [Saket Kumar Sankrit](https://github.com/098saket) | III | IT | [@098saket](https://hacktoberfest.digitalocean.com/stats/098saket) | |
 | Abhimanyu Shekhawat | II | IT | |
 | Harshita Saxena | II | IT | |
 | Bharti Sharma | II | IT | |
