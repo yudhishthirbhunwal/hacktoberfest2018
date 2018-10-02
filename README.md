@@ -29,6 +29,9 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 
 ## Participants
 
+
+*When adding your name, don't add it at the beginning or end of the file. Put it anywhere in between.*
+
 | Name | Year | Branch | Stats |
 | --- | --- | --- | --- |
 | Dhruv Jain | IV | CSE | [@maddhruv](https://hacktoberfest.digitalocean.com/stats/maddhruv) |
@@ -70,4 +73,3 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Sokratis Fotkatzikis | I | IT | [@sokratis12GR](https://hacktoberfest.digitalocean.com/stats/sokratis12GR) |
 | Prateek Vijayvergiya | IV | CSE | [@prateekvijayvergiya](https://hacktoberfest.digitalocean.com/stats/prateekvijayvergiya) |
 
-*When adding your name, don't add it at the beginning or end of the file. Put it anywhere in between.*
