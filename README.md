@@ -8,6 +8,13 @@ Register at - https://hacktoberfest.digitalocean.com/
 
 **Links**
 
+| Name | Org/Developer | Link | Topic |
+| --- | --- | --- | --- |
+| JECRC-Pay | CodeDocsJECRC | https://github.com/CodeDocsJECRC/JECRC-Pay | Android, Java |
+| CodeDocs-App | CodeDocsJECRC | https://github.com/CodeDocsJECRC/CodeDocs-App | Android, Kotlin |
+| JECRC-Pay-API | CodeDocsJECRC | https://github.com/CodeDocsJECRC/JECRC-Pay-API | Node.js, MongoDB |
+
+
 * [ambujraj/hacktoberfest2018](https://github.com/ambujraj/hacktoberfest2018)
 * [AliceWonderland/hacktoberfest](https://github.com/AliceWonderland/hacktoberfest)
 * [Novice-Paradigm/Hello-World](https://github.com/Novice-Paradigm/Hello-World) 
