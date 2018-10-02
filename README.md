@@ -65,6 +65,7 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Namandeep Singh | III | CSE | |
 | Harshit Bansal | II | CSE | |
 | Manpreet | I | IT | |
+| [Kavita](https://github.com/Kavita309)| III | CSE | [@Kavita309](https://hacktoberfest.digitalocean.com/stats/Kavita309) |
 | Sokratis Fotkatzikis | I | IT | [@sokratis12GR](https://hacktoberfest.digitalocean.com/stats/sokratis12GR) |
 | Prateek Vijayvergiya | IV | CSE | [@prateekvijayvergiya](https://hacktoberfest.digitalocean.com/stats/prateekvijayvergiya) |
 
