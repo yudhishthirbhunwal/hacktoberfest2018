@@ -25,15 +25,21 @@ Register at - https://hacktoberfest.digitalocean.com/
 * [Hacktoberfest-2018/html-page/create-your-first-PR](https://github.com/abhilashk433/Hacktoberfest-2018)
  
 ## Bonus
-Microsoft is participating in Hacktoberfest this year! Details [here](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/).
+- Any contributor who opens a pull request in any Microsoft repo between October 1 and October 31* will receive a special edition T-shirt from Microsoft. [Know more](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/)!
+- Five accepted pull results will qualify you for a special edition SendGrid Hacktoberfest t-shirt. [Know more](https://sendgrid.com/blog/hacktoberfest-2018-has-arrived/?utm_medium=corp&utm_source=twitter&utm_content=blog)!
+
+
 
 ## Participants
+
+
+*When adding your name, don't add it at the beginning or end of the file. Put it anywhere in between.*
 
 | Name | Year | Branch | Stats |
 | --- | --- | --- | --- |
 | Dhruv Jain | IV | CSE | [@maddhruv](https://hacktoberfest.digitalocean.com/stats/maddhruv) |
 | [Abhilash Tiwari](https://github.com/abhilashk433/) | III | CSE | |
-| Aakanksha Jain | III | CSE | |
+| [Aakanksha Jain](https://github.com/accakks/) | III | CSE | [@accakks](https://hacktoberfest.digitalocean.com/stats/accakks) |
 | Amrit Srivastava | III | CSE | |
 | [Aditya Agarwal](https://github.com/aditya81070) | III | CSE |  |
 | Akshay Sharma | III | CSE | |
@@ -47,7 +53,7 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Harshita Saxena | II | IT | |
 | Bharti Sharma | II | IT | |
 | [Akash Lakhera](https://github.com/akashlakhera) | III | CSE | |
-| Mansi Breja | III | CSE | |
+| [Mansi Breja](https://github.com/MansiBreja) | III | CSE | [@MansiBreja](https://hacktoberfest.digitalocean.com/stats/MansiBreja) |
 | Prince Jhabak | III | CSE | |
 | Aakash Khaksa | II | IT | |
 | Hardik Mundra | II | IT | |
@@ -62,6 +68,7 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Sparsh Singhal | III | CSE | |
 | Siffrein sigy | II | IT | |
 | Akshay Sharma | III | CSE | |
+| Suraj Kumar | III | CSE | [@surajkumarcse](https://hacktoberfest.digitalocean.com/stats/surajkumarcse) |
 | Namandeep Singh | III | CSE | |
 | Harshit Bansal | II | CSE | |
 | Manpreet | I | IT | |
@@ -69,4 +76,3 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Sokratis Fotkatzikis | I | IT | [@sokratis12GR](https://hacktoberfest.digitalocean.com/stats/sokratis12GR) |
 | Prateek Vijayvergiya | IV | CSE | [@prateekvijayvergiya](https://hacktoberfest.digitalocean.com/stats/prateekvijayvergiya) |
 
-*When adding your name, don't add it at the beginning or end of the file. Put it anywhere in between.*
