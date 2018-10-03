@@ -26,7 +26,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 * [Resources-HacktoberFest2018](https://github.com/fs0sp/Resources-HacktoberFest2018)
  
 ## Bonus
-- Any contributor who opens a pull request in any Microsoft repo between October 1 and October 31* will receive a special edition T-shirt from Microsoft. [Know more](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/)!
+- Any contributor who opens a pull request in any Microsoft repo between October 1 and October 31* will receive a special edition T-shirt from Microsoft. [Know more](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/)! [Updates](https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/) 
 - Five accepted pull results will qualify you for a special edition SendGrid Hacktoberfest t-shirt. [Know more](https://sendgrid.com/blog/hacktoberfest-2018-has-arrived/?utm_medium=corp&utm_source=twitter&utm_content=blog)!
 
 
