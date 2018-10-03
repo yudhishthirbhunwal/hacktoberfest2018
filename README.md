@@ -56,7 +56,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Bharti Sharma | II | IT | |
 | [Akash Lakhera](https://github.com/akashlakhera) | III | CSE | |
 | [Mansi Breja](https://github.com/MansiBreja) | III | CSE | [@MansiBreja](https://hacktoberfest.digitalocean.com/stats/MansiBreja) |
-| Prince Jhabak | III | CSE | |
+| [Prince Jhabak](https://github.com/Princejhabak/) | III | CSE | [@Princejhabak](https://hacktoberfest.digitalocean.com/stats/Princejhabak) |
 | Aakash Khaksa | II | IT | |
 | Hardik Mundra | II | IT | |
 | [Shivam Pokhriyal](https://github.com/fs0sp) | II | CSE |[@fs0sp](https://hacktoberfest.digitalocean.com/stats/fs0sp) |
