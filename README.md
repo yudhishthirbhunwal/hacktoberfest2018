@@ -44,7 +44,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Amrit Srivastava | III | CSE | |
 | [Aditya Agarwal](https://github.com/aditya81070) | III | CSE |  |
 | Akshay Sharma | III | CSE | |
-| Sagar Parre | III | IT | |
+| [Sagar Parre](https://github.com/sud0m0nk) | III | IT | [@sud0m0nk](https://hacktoberfest.digitalocean.com/stats/sud0m0nk) | |
 | Abhishek Mohata | III | CSE | |
 | [Akshay Gagrani](https://github.com/Akshaygagrani) | III | CSE | |
 | [Manank Patni](https://github.com/Man-Jain) | II | IT | [@Man-Jain](https://hacktoberfest.digitalocean.com/stats/Man-Jain) |
