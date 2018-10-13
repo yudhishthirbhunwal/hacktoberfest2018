@@ -4,6 +4,38 @@ CodeDocs Hacktoberfest 2018 - participants, repositories and score
 
 Register at - https://hacktoberfest.digitalocean.com/
 
+## Guidelines
+
+1. Register at - https://hacktoberfest.digitalocean.com/
+
+2. Star :star: and Fork this repository from the top right corner buttons
+
+3. Now you will get a forked version of this repository - with url as `https://github.com/[your_username]/hacktoberfest2018`
+
+4. Open terminal
+
+5. Run `git clone https://github.com/[your_username]/hacktoberfest2018`
+
+6. Make your branch - `git checkout -b [username]`
+
+7. Make your entry at the end of the table - Name | Year | Branch | Hacktoberfest stats link
+
+8. Save the changes
+
+9. Run `git add README.md`
+
+10. Run `git commit -m "[username] add"`
+
+11. Run `git push origin [username]`
+
+12. Go to `https://github.com/[your_username]/hacktoberfest2018`
+
+13. Click the green *New Pull Request* button at the top left corner
+
+14. Submit the Pull Request
+
+15. WooHoo!! :tada: :tada: You have made your first Pull Request and are 4 PRs away from winning the wonderful T-Shirt
+
 ## Repositories for Beginners
 
 **Links**
