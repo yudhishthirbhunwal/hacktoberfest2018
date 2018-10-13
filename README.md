@@ -84,7 +84,7 @@ Register at - https://hacktoberfest.digitalocean.com/
 | [Saket Kumar Sankrit](https://github.com/098saket) | III | IT | [@098saket](https://hacktoberfest.digitalocean.com/stats/098saket) | |
 | [Prudhvi Rambha](https://github.com/prudhvirambha) | III | CSE | [@prudhvirambha](https://hacktoberfest.digitalocean.com/stats/prudhvirambha) | |
 | Abhimanyu Shekhawat | II | IT | |
-| Yudhishthir Bhunwal | II | IT | |
+| Yudhishthir Bhunwal | II | IT | [@yudhishthirbhunwal] |
 | Harshita Saxena | II | IT | |
 | Bharti Sharma | II | IT | |
 | [Akash Lakhera](https://github.com/akashlakhera) | III | CSE | |
